@@ -4,7 +4,7 @@ This is a project that uses OpenAi's ChatGP to create a video using the news api
 <!-- Show Example Output -->
 ## Example Output
 [Youtube Link - https://youtu.be/0InpG3Au8n0](https://youtu.be/0InpG3Au8n0)
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0InpG3Au8n0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<video src="./final_video_try_1.mp4"></video>
 
 
 <!-- paragraph explains main.py  -->
